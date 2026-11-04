@@ -1,4 +1,4 @@
       //负责交互逻辑
       function changeText() {
-        document.getElementById('msg').textContent = '你刚刚触发了一段 JavaScript。';
+        document.getElementById('msg').textContent = '才不是想说“你是给”呢！';
       }
